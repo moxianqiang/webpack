@@ -1,0 +1,28 @@
+.box2 {
+	width: 30px;
+	height: 30px;
+	background-color: pink;
+}
+
+.box4 {
+	width: 200px;
+	height: 150px;
+	background-image: url('../../images/router.jpg');
+	background-size: cover;
+}
+
+.title {
+	color: orange;
+	width: 100%;
+}
+
+.title > .top {
+	font-size: 50px;
+	font-weight: 600;
+	text-align: center;
+}
+
+.title > .bottom {
+	font-size: 30px;
+	text-align: center;
+}
